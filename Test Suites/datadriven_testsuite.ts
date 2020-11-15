@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>datadriven_testsuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>bdd64e48-b91d-457f-a174-033dbd5bd972</testSuiteGuid>
+   <testCaseLink>
+      <guid>14916113-6fbc-444c-8fd3-66733d0aed6f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/tc_datadriven_fb_reg</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>048dadeb-0054-4197-99e7-58facf155494</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/fb_reg_data</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>048dadeb-0054-4197-99e7-58facf155494</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>fname</value>
+         <variableId>563e68c4-6e4b-4a0c-8cce-88ee693e0703</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>048dadeb-0054-4197-99e7-58facf155494</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sname</value>
+         <variableId>aea2a27b-8bd0-4cf8-b815-81d4c1042e9e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>048dadeb-0054-4197-99e7-58facf155494</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>mobilenumber</value>
+         <variableId>8d6d5a10-cbfa-41f6-a2f1-bd598e250592</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>048dadeb-0054-4197-99e7-58facf155494</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>day</value>
+         <variableId>a804d389-a7ec-44f6-a92d-632fbbe4e4a4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>048dadeb-0054-4197-99e7-58facf155494</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>month</value>
+         <variableId>103277a1-a354-423b-b36d-fe9ac7f67733</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>048dadeb-0054-4197-99e7-58facf155494</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>year</value>
+         <variableId>0720b78f-36b3-46d6-b3a2-ea50945fc362</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
