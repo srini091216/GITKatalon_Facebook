@@ -12,21 +12,9 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>92a2a1ae-5912-4cc9-ad7b-01ea448933bb</testSuiteGuid>
    <testCaseLink>
-      <guid>12a2c1a7-dde4-4a52-bedc-9f8f65212865</guid>
+      <guid>b01d6379-6cfb-40c4-9b0a-a99c72207399</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/tc_register</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2d50b659-4acd-4612-b2be-74f84c677996</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/tc_login</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6bd8a91a-6243-42f9-b496-ea1b43ab1542</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/custKeyword_tc</testCaseId>
+      <testCaseId>Test Cases/Tc_browseropen</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
